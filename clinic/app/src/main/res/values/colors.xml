@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorPrimarylight">#FFFCB3</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+    <color name="baclgroundtext_card">#000000</color>
+    <color name="editTextColorWhite">#ffffff</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="backgroundLogin">#F5DA81</color>
+    <color name="link">#FFBF00</color>
+    <color name="colorCabecera">#FFBF00</color>
+</resources>

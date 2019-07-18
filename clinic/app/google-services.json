@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "630627479680",
+    "firebase_url": "https://censalud-1f6c0.firebaseio.com",
+    "project_id": "censalud-1f6c0",
+    "storage_bucket": "censalud-1f6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630627479680:android:d095f0d1cac222ff",
+        "android_client_info": {
+          "package_name": "com.julianescalante.censalud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630627479680-rvqk424qtcts26kef5galr4fd61l48sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWtNN7JwJcz7Bkk6gSTqGfAPL3VRL65I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630627479680-rvqk424qtcts26kef5galr4fd61l48sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630627479680:android:99fa94b3bfea5bc3",
+        "android_client_info": {
+          "package_name": "com.julianescalante.clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630627479680-rvqk424qtcts26kef5galr4fd61l48sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWtNN7JwJcz7Bkk6gSTqGfAPL3VRL65I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630627479680-rvqk424qtcts26kef5galr4fd61l48sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

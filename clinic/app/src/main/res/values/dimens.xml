@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edittext_textsize_login">22dp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="activity_vertical_margin">18dp</dimen>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="edittext_margin_createaccount">10dp</dimen>
+    <dimen name="height_cardview">350dp</dimen>
+    <dimen name="cornerradius_cardview">2dp</dimen>
+    <dimen name="textsize_usernamecard">25sp</dimen>
+    <dimen name="firsword_textsize">15sp</dimen>
+    <dimen name="timecard_marginleftcard">5dp</dimen>
+    <dimen name="like_margintop_car">5dp</dimen>
+    <dimen name="bottombar_height">60dp</dimen>
+    <dimen name="appbarlayout_picturedetail">256dp</dimen>
+    <dimen name="textsize_usernamedetail">25sp</dimen>
+    <dimen name="textsize_likedetail">15sp</dimen>
+    <dimen name="textsize_likenumberdetail">15sp</dimen>
+    <dimen name="marginleft_secondword">7dp</dimen>
+    <dimen name="divider_detail">1dp</dimen>
+    <dimen name="paddingtop_titleimagedatail">20dp</dimen>
+    <dimen name="padding_horizontal_textcontent_detail">35dp</dimen>
+    <dimen name="textsize_usernameprofile">30dp</dimen>
+    <dimen name="circleimageProfile">160dp</dimen>
+    <dimen name="margintop_circleimageprofile">30dp</dimen>
+    <dimen name="elevationcircleimageprofile">10dp</dimen>
+    <dimen name="limitYcircleimage">-206dp</dimen>
+    <dimen name="margintoptoolbarcircleimageprofile">-15dp</dimen>
+    <dimen name="width_circleimagetoolbar">40dp</dimen>
+    <dimen name="text_size_username_toolbarprofile">18dp</dimen>
+    <dimen name="margin_left_usernametoolbarprofile">72dp</dimen>
+    <dimen name="margintop_username_toolbar">-100dp</dimen>
+    <dimen name="limitY_usernametoolbarprofile">-250dp</dimen>
+    <dimen name="margintoptarget_usernametoolbarprofile">-15dp</dimen>
+    <dimen name="dimen_circleimageprofile">160dp</dimen>
+    <dimen name="elevation_circleimageprofile">20dp</dimen>
+    <dimen name="limitY_circleimage">-206dp</dimen>
+    <dimen name="margintoptoolbar_circleimageprofile">6dp</dimen>
+    <dimen name="padding_vertical_top">200dp</dimen>
+    <dimen name="actionBarSize">50dp</dimen>
+    <dimen name="alto_cabecera">40dp</dimen>
+    <dimen name="nameCenter">20dp</dimen>
+    <dimen name="addressCenter">12dp</dimen>
+</resources>

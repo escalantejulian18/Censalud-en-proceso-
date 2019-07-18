@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Clinic</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="create_here">Creá una aquí</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_ceateaccount">Registrar</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cabecera">Centros Médicos</string>
+
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_geo">Geo</string>
+    <string name="tab_profile">Profile</string>
+    <string name="username_card_detail">Valeria</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="titleimage">\"Pintas de muestra\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet...</string>
+    <string name="likenumber_card">10 me gusta</string>
+    <string name="usernamecard">Ernesto Ledesma</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="username_card">Valeria</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_container">ContainerActivity</string>
+    <string name="signOut">Sign out</string>
+
+    <string name="maps_key">AIzaSyCzCnTGNi6JHB7nxvY6EDJbirI6t9I5Gko</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>
